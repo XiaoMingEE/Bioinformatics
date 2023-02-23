@@ -7,22 +7,23 @@
       + 不同种类RNA
    + Method:  Sequencing & Computing
       + 测序技术的革新
-      + 生物信息学解决的两类问题
-        1.Data Problems:
+      + 生物信息学解决的两类问题  
+        1. Data Problems:
            + Representation (graphics) 
            + Storage and retrieval (databases) 
            + Analysismethod(statistics, artificial intelligence, optimization, etc.)
-        2.Biology Problems:
+        2. Biology Problems:
            + Interpreting biological sequences
            + Predicting structure or function
            + Mining clinical (i.e. cancer) data/information
       + 生物信息学的三层次
-        1.信息
+        1. 信息
            通过生物学、医学的方法获取数据，包括图像、序列等形式
-        2.模型
+        2. 模型
            建立数学模型，将实际的生物学问题抽象成数学问题
-        3.算法
+        3. 算法
            借助计算机等工具求解数学问题的方法
+
 --------
 ### 生物信息学学习计划
    + 课前尽量抽时间预习
